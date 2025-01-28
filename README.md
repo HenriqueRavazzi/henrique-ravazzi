@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Ravazzi 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
+![Imagem do projeto finalizado](assets/images/portifolio.png)
 
 <h4 align="center"><a href="https://henriqueravazzi.github.io/henrique-ravazzi/">Confira o projeto aqui</a></h4>
 
