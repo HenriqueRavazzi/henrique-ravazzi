@@ -50,11 +50,11 @@ function projetos(section) {
           <h3>Desafio 21 dias de código</h3>
           <div class="img-wrapper">
             <img
-              src="./assets/images/projects/desafio-de-codigo.jpg"
+              src="./assets/images/projects/desafio-21-dias.png"
               alt="Imagem tema do projeto de desafio de código."
             />
             <div class="buttons">
-              <a href="https://github.com/lucyanovidio/desafio-21-dias-codigo-rocketseat" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/HenriqueRavazzi/desafio-21-rocketseat" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -91,7 +91,7 @@ function projetos(section) {
         <div class="card">
           <h3>Meu site</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/portifolio.gif" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/meu-site.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/HenriqueRavazzi/henrique-ravazzi" target="_blank" title="Repositório no Github">
                 <svg
