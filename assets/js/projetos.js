@@ -88,7 +88,7 @@ function projetos(section) {
         <div class="card">
           <h3>Métodos Numéricos Computacionais</h3>
           <div class="img-wrapper">
-            <img src="./assets/images/projects/trab-mnc.png.png" alt="Imagem do projeto." />
+            <img src="./assets/images/projects/trab-mnc.png" alt="Imagem do projeto." />
             <div class="buttons">
               <a href="https://github.com/HenriqueRavazzi/Trab-MNC" target="_blank" title="Repositório no Github">
                 <svg
